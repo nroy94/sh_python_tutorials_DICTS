@@ -1,1 +1,3 @@
-Note that some html elements used in this jupyter notebook don't show up well.
+These are a collection of python tutorials that a colleague and I created to upskill Python knowledge in the Analytics Division.
+
+Note that the code in this lesson was made to be demonstrated in a live video format.
